@@ -12,3 +12,5 @@ That being said my tools are designed so you don't have to run the malicious cod
 You can view the blogpost that these tools go with here https://pcsxcetrasupport3.wordpress.com/2019/07/07/those-pesky-powershell-shellcodes-and-how-to-understand-them/
 
 Blog post using these tools for decoding multi rounds of Shikata Ga Nai encoding https://pcsxcetrasupport3.wordpress.com/2020/02/25/more-adventures-with-shell-code-and-the-shikata-ga-nai-encoder/
+
+2021-03-13 Added experimental tool to build hashses based on api name and dll name. May still have some errors.
