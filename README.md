@@ -15,3 +15,10 @@ Blog post using these tools for decoding multi rounds of Shikata Ga Nai encoding
 
 2021-03-13 Added experimental tool to build hashses based on api name and dll name. May still have some errors.
 File name is HashStringUsingKnownAlgos.7z   password is "clean"
+
+
+Update: 2021-05-28
+Updated Extract-IP-From-Meterpreter-ShellCode to version 1_0_0_3342 to handle meterpeter x64 wininet shellcode that puts the IP in the middle instead of the end of the shellcode.
+file name is Extract-IP-From-Meterpreter-ShellCode1_0_0_3342.7z password is clean .
+
+Twitter reference to a Blog post on type. https://twitter.com/DmitriyMelikov/status/1397922972078276611
