@@ -22,3 +22,7 @@ Updated Extract-IP-From-Meterpreter-ShellCode to version 1_0_0_3342 to handle me
 file name is Extract-IP-From-Meterpreter-ShellCode1_0_0_3342.7z password is clean .
 
 Twitter reference to a Blog post on type. https://twitter.com/DmitriyMelikov/status/1397922972078276611
+
+Upadte: 2021-06-19
+Updated Extract-IP-From-Meterpreter-ShellCode to version 1_0_0_3343 to handle WS_32 32 bit difference in the way the bind port and normal port with out bind API are calculated.
+See twitter screenshot here. 
