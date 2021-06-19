@@ -25,4 +25,4 @@ Twitter reference to a Blog post on type. https://twitter.com/DmitriyMelikov/sta
 
 Upadte: 2021-06-19
 Updated Extract-IP-From-Meterpreter-ShellCode to version 1_0_0_3343 to handle WS2_32 32 bit difference in the way the bind port and normal port with out bind API are calculated.
-See twitter screenshot here. 
+See twitter screenshot here. https://twitter.com/Ledtech3/status/1406327271078703106 pass is clean
